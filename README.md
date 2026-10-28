@@ -238,4 +238,4 @@ This repository serves as the official landing page for Hermes EMail Server. The
 **Get the most recent version of Hermes EMail Server today!**
 
 ---
-**Last updated:** 2026-10-28 18:07:02 UTC
+**Last updated:** 2026-10-28 23:00:01 UTC
